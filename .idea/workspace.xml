@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8567fba-bec4-447e-ade3-dbc59315c089" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Park.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ParkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Playground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/AttractionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AttractionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,25 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="VisitorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/VisitorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AttractionTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/AttractionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="465">
+              <caret line="31" column="74" lean-forward="true" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -370,6 +356,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Park.java" />
         <option value="$PROJECT_DIR$/src/test/java/DodgemsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ParkTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Playground.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/AttractionTest.java" />
       </list>
     </option>
@@ -450,7 +438,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AttractionTest.parkAsAttraction">
+  <component name="RunManager" selected="JUnit.AttractionTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -505,13 +493,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AttractionTest.rollercoasterAsAttraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AttractionTest.playgroundAsAttraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week7.day1.homework_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AttractionTest" />
-      <option name="METHOD_NAME" value="rollercoasterAsAttraction" />
+      <option name="METHOD_NAME" value="playgroundAsAttraction" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -522,12 +510,12 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Attraction.rollercoasterAsAttraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AttractionTest.rollercoasterAsAttraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week7.day1.homework_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Attraction" />
+      <option name="MAIN_CLASS_NAME" value="AttractionTest" />
       <option name="METHOD_NAME" value="rollercoasterAsAttraction" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -578,19 +566,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.Attraction.rollercoasterAsAttraction" />
       <item itemvalue="JUnit.AttractionTest" />
       <item itemvalue="JUnit.AttractionTest.rollercoasterAsAttraction" />
       <item itemvalue="JUnit.AttractionTest.dodgemsAsAttraction" />
       <item itemvalue="JUnit.AttractionTest.parkAsAttraction" />
+      <item itemvalue="JUnit.AttractionTest.playgroundAsAttraction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AttractionTest" />
+        <item itemvalue="JUnit.AttractionTest.playgroundAsAttraction" />
         <item itemvalue="JUnit.AttractionTest.parkAsAttraction" />
         <item itemvalue="JUnit.AttractionTest.dodgemsAsAttraction" />
         <item itemvalue="JUnit.AttractionTest.rollercoasterAsAttraction" />
-        <item itemvalue="JUnit.AttractionTest" />
-        <item itemvalue="JUnit.Attraction.rollercoasterAsAttraction" />
       </list>
     </recent_temporary>
   </component>
@@ -608,9 +596,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VisitorTest_visitorHasAge - 2018.07.02 at 16h 06m 14s.xml">
-      <configuration name="VisitorTest.visitorHasAge" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VisitorTest_visitorHasHeight - 2018.07.02 at 16h 07m 12s.xml">
       <configuration name="VisitorTest.visitorHasHeight" configurationId="JUnit" />
     </history-entry>
@@ -637,6 +622,9 @@
     </history-entry>
     <history-entry file="AttractionTest_dodgemsAsAttraction - 2018.07.02 at 17h 03m 50s.xml">
       <configuration name="AttractionTest.dodgemsAsAttraction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AttractionTest_parkAsAttraction - 2018.07.02 at 17h 09m 53s.xml">
+      <configuration name="AttractionTest.parkAsAttraction" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -784,24 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DodgemsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dodgems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VisitorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -814,10 +784,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dodgems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Playground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PlaygroundTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="71" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DodgemsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AttractionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="465">
+          <caret line="31" column="74" lean-forward="true" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

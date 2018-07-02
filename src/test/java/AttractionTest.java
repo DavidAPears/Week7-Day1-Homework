@@ -21,9 +21,15 @@ public class AttractionTest {
     }
 
     @Test
-    public  void parkAsAttraction() {
+    public void parkAsAttraction() {
         attraction = new Park("The Water Park", 0.00);
         assertEquals("The Water Park", attraction.getName());
+    }
+
+    @Test
+    public void playgroundAsAttraction() {
+        attraction = new Playground("The Play-Around-Play-Ground", 0.00);
+        assertEquals("The Play-Around-Play-Ground", attraction.getName());
     }
 
 }
