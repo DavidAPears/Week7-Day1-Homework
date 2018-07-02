@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8567fba-bec4-447e-ade3-dbc59315c089" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Rollercoaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AttractionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dodgems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DodgemsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Attraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ArreactionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AttractionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AttractionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,20 +24,72 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AttractionTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/AttractionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="Dodgems.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Dodgems.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DodgemsTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/DodgemsTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="54" />
+                  <folding>
+                    <element signature="e#121#122#0" expanded="true" />
+                    <element signature="e#176#177#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AttractionTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/AttractionTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Rollercoaster.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RollercoasterTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/RollercoasterTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#130#131#0" expanded="true" />
+                    <element signature="e#202#203#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -353,10 +403,12 @@
         <option value="$PROJECT_DIR$/src/test/java/Attraction.java" />
         <option value="$PROJECT_DIR$/src/test/java/Rollercoaster.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rollercoaster.java" />
-        <option value="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/AttractionTest" />
-        <option value="$PROJECT_DIR$/src/test/java/AttractionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Attraction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dodgems.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DodgemsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AttractionTest.java" />
       </list>
     </option>
   </component>
@@ -412,14 +464,6 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="week7.day1.homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week7.day1.homework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AttractionTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -444,7 +488,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AttractionTest">
+  <component name="RunManager" selected="JUnit.AttractionTest.dodgemsAsAttraction">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -456,6 +500,40 @@
       <option name="MAIN_CLASS_NAME" value="AttractionTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AttractionTest.dodgemsAsAttraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week7.day1.homework_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AttractionTest" />
+      <option name="METHOD_NAME" value="dodgemsAsAttraction" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AttractionTest.rollercoasterAsAttraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week7.day1.homework_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AttractionTest" />
+      <option name="METHOD_NAME" value="rollercoasterAsAttraction" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -490,40 +568,6 @@
       <option name="MAIN_CLASS_NAME" value="VisitorTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="VisitorTest.visitorHasAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="week7.day1.homework_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VisitorTest" />
-      <option name="METHOD_NAME" value="visitorHasAge" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="VisitorTest.visitorHasHeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="week7.day1.homework_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VisitorTest" />
-      <option name="METHOD_NAME" value="visitorHasHeight" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -572,19 +616,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.VisitorTest.visitorHasAge" />
-      <item itemvalue="JUnit.VisitorTest.visitorHasHeight" />
       <item itemvalue="JUnit.VisitorTest" />
       <item itemvalue="JUnit.Attraction.rollercoasterAsAttraction" />
       <item itemvalue="JUnit.AttractionTest" />
+      <item itemvalue="JUnit.AttractionTest.rollercoasterAsAttraction" />
+      <item itemvalue="JUnit.AttractionTest.dodgemsAsAttraction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AttractionTest.dodgemsAsAttraction" />
+        <item itemvalue="JUnit.AttractionTest.rollercoasterAsAttraction" />
         <item itemvalue="JUnit.AttractionTest" />
         <item itemvalue="JUnit.Attraction.rollercoasterAsAttraction" />
         <item itemvalue="JUnit.VisitorTest" />
-        <item itemvalue="JUnit.VisitorTest.visitorHasHeight" />
-        <item itemvalue="JUnit.VisitorTest.visitorHasAge" />
       </list>
     </recent_temporary>
   </component>
@@ -614,6 +658,21 @@
     <history-entry file="VisitorTest - 2018.07.02 at 16h 07m 54s.xml">
       <configuration name="VisitorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AttractionTest - 2018.07.02 at 16h 45m 46s.xml">
+      <configuration name="AttractionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AttractionTest_rollercoasterAsAttraction - 2018.07.02 at 16h 48m 27s.xml">
+      <configuration name="AttractionTest.rollercoasterAsAttraction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AttractionTest_rollercoasterAsAttraction - 2018.07.02 at 16h 54m 25s.xml">
+      <configuration name="AttractionTest.rollercoasterAsAttraction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AttractionTest - 2018.07.02 at 16h 55m 26s.xml">
+      <configuration name="AttractionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AttractionTest_rollercoasterAsAttraction - 2018.07.02 at 16h 56m 49s.xml">
+      <configuration name="AttractionTest.rollercoasterAsAttraction" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -621,18 +680,18 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Messages" weight="0.32969698" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32969698" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18526466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.108726755" />
       <window_info anchor="bottom" id="Build" weight="0.32969698" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -653,33 +712,39 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
-      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32969698" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.13733906" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18526466" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Build" order="3" weight="0.32969698" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Messages" order="4" visible="true" weight="0.32969698" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info id="Favorites" order="4" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/ArreactionTest.java">
@@ -719,35 +784,57 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/AttractionTest">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Attraction.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dodgems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RollercoasterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Attraction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        <state relative-caret-position="150">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DodgemsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="54" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AttractionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

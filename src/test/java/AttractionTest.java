@@ -10,7 +10,18 @@ public class AttractionTest {
 
     @Test
     public void rollercoasterAsAttraction() {
+        attraction = new Rollercoaster("The Corkscrew", 8.40);
+        assertEquals("The Corkscrew", attraction.getName());
     }
+
+    @Test
+    public void dodgemsAsAttraction() {
+        attraction = new Dodgems("The Dodge Derby", 4.50);
+        assertEquals("The Dodge Derby", attraction.getName());
+    }
+
 }
+
+
 
 

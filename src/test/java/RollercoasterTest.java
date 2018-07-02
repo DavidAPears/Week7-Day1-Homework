@@ -6,7 +6,7 @@ public class RollercoasterTest {
 
     @Before
     public void before(){
-        rollercoaster = new Rollercoaster("The Corkscrew", 4.50);
+        rollercoaster = new Rollercoaster("The Corkscrew", 8.40);
     }
 
 }
