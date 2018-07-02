@@ -31,7 +31,6 @@ public class AttractionTest {
         attraction = new Playground("The Play-Around-Play-Ground", 0.00);
         assertEquals("The Play-Around-Play-Ground", attraction.getName());
     }
-
 }
 
 

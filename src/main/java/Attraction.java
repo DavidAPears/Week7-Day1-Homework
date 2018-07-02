@@ -1,6 +1,6 @@
 public abstract class Attraction {
 
-    //    ABSTRACT CLASS
+//    Abstract Class !
 
     private String name;
 
