@@ -6,6 +6,6 @@ public class TobaccoStallTest {
 
     @Before
     public void before() {
-        tobaccoStall = new TobaccoStall("Mr Fags", "George McDuff", 18, true);
+        tobaccoStall = new TobaccoStall("Mr Fags", "George McDuff", 18, false);
     }
 }

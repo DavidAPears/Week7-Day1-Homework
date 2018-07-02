@@ -20,7 +20,7 @@ public class StallTest {
 
     @Test
     public  void tobaccoStallAsStall() {
-        stall = new TobaccoStall ("Mr Fags", "George McDuff", 18, true);
+        stall = new TobaccoStall ("Mr Fags", "George McDuff", 18, false);
         assertEquals("Mr Fags", stall.getName());
     }
 }
