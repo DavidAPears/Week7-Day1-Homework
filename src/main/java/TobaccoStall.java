@@ -2,8 +2,8 @@ public class TobaccoStall extends Stall {
 
     private boolean hygieneCertificatePassed;
 
-    public TobaccoStall(String name, String owner, int parkingSpot, boolean hygieneCertificatePassed) {
-        super(name, owner, parkingSpot);
+    public TobaccoStall(String name, String owner, int parkingSpot, boolean hygieneCertificatePassed, int rating) {
+        super(name, owner, parkingSpot, rating);
         this.hygieneCertificatePassed = hygieneCertificatePassed;
     }
 

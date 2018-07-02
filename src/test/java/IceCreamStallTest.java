@@ -6,7 +6,7 @@ public class IceCreamStallTest {
 
     @Before
     public void before(){
-        iceCreamStall = new IceCreamStall("Mr Whippy", "Simon Jones", 78, true);
+        iceCreamStall = new IceCreamStall("Mr Whippy", "Simon Jones", 78, true, 7);
     }
 
 }

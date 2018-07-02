@@ -9,6 +9,7 @@ public class AttractionTest {
     Attraction attraction;
     Playground playground;
     Visitor visitor;
+    CandyFlossStall candyFlossStall;
 
     @Test
     public void rollercoasterAsAttraction() {
