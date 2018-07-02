@@ -1,7 +1,13 @@
 public interface ITicketed {
 
-    public double defaultPrice();
 
-    public double priceFor(Visitor visitor);
+    double defaultPrice();
+
+    double priceFor(Visitor visitor);
 
 }
+
+
+
+
+// IE: "void cycle(int distance);"
