@@ -7,6 +7,8 @@ import static org.junit.Assert.assertEquals;
 public class AttractionTest {
 
     Attraction attraction;
+    Playground playground;
+    Visitor visitor;
 
     @Test
     public void rollercoasterAsAttraction() {
@@ -31,6 +33,8 @@ public class AttractionTest {
         attraction = new Playground("The Play-Around-Play-Ground", 0.00);
         assertEquals("The Play-Around-Play-Ground", attraction.getName());
     }
+
+
 }
 
 

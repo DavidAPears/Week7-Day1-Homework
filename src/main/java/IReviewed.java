@@ -1,7 +1,8 @@
-public class IReviewed {
+public interface IReviewed {
 
     int getRating();
 
     String getName();
 
 }
+

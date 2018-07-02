@@ -7,7 +7,3 @@ public interface ITicketed {
 
 }
 
-
-
-
-// IE: "void cycle(int distance);"
