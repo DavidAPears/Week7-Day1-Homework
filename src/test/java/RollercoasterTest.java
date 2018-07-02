@@ -10,7 +10,7 @@ public class RollercoasterTest {
 
     @Before
     public void before(){
-        rollercoaster = new Rollercoaster("The Corkscrew", 8.40);
+        rollercoaster = new Rollercoaster("The Corkscrew", 8.40, 9);
     }
 
     @Test
@@ -18,6 +18,7 @@ public class RollercoasterTest {
         visitor = new Visitor("Ronnie", 15, 150.00, 28.00);
         assertEquals(true, rollercoaster.isAllowedTo(visitor));
     }
+
 
 
 
