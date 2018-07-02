@@ -7,7 +7,7 @@ public class TobaccoStall extends Stall {
         this.hygieneCertificatePassed = hygieneCertificatePassed;
     }
 
-    public boolean isAllowedTo(Visitor visitor){
-        return visitor.getAge() > 18;
+    public boolean isAllowedTo(Visitor visitor) {
+        return (visitor.getAge() > 18);
     }
 }
