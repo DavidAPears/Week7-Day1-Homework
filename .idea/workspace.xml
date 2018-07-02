@@ -3,12 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a8567fba-bec4-447e-ade3-dbc59315c089" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Playground.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IReviewed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IReviewed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ITicketed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ITicketed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Playground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Playground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/PlaygroundTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/PlaygroundTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Playground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Playground.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AttractionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AttractionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TobaccoStall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -27,38 +27,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PlaygroundTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PlaygroundTest.java">
+      <file leaf-file-name="TobaccoStall.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TobaccoStall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="180">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AttractionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/AttractionTest.java">
+      <file leaf-file-name="TobaccoStallTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="195">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#playgroundAsAttraction#0;class#AttractionTest#0" />
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Playground.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Playground.java">
+      <file leaf-file-name="ISecurity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ISecurity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -389,22 +389,22 @@
         <option value="$PROJECT_DIR$/src/main/java/CandyFlossStall.java" />
         <option value="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TobaccoStall.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/StallTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ISecurity.java" />
         <option value="$PROJECT_DIR$/src/main/java/IReviewed.java" />
         <option value="$PROJECT_DIR$/src/main/java/ITicketed.java" />
         <option value="$PROJECT_DIR$/src/main/java/Visitor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Playground.java" />
         <option value="$PROJECT_DIR$/src/test/java/AttractionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ISecurity.java" />
         <option value="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Playground.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TobaccoStall.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1051" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -465,6 +465,11 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -477,7 +482,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PlaygroundTest">
+  <component name="RunManager" selected="JUnit.TobaccoStallTest.mustBeOverEighteen">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -498,13 +503,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AttractionTest.isAllowedToTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlaygroundTest.isAllowedTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week7.day1.homework_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AttractionTest" />
-      <option name="METHOD_NAME" value="isAllowedToTest" />
+      <option name="MAIN_CLASS_NAME" value="PlaygroundTest" />
+      <option name="METHOD_NAME" value="isAllowedTo" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -515,30 +520,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PlaygroundTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlaygroundTest.isAllowedToOK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week7.day1.homework_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PlaygroundTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="PlaygroundTest.isAllowedToTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="week7.day1.homework_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PlaygroundTest" />
-      <option name="METHOD_NAME" value="isAllowedToTest" />
+      <option name="METHOD_NAME" value="isAllowedToOK" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -549,14 +537,31 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="StallTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlaygroundTest.isAllowedToWorking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week7.day1.homework_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StallTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="PlaygroundTest" />
+      <option name="METHOD_NAME" value="isAllowedToWorking" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TobaccoStallTest.mustBeOverEighteen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week7.day1.homework_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TobaccoStallTest" />
+      <option name="METHOD_NAME" value="mustBeOverEighteen" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -605,19 +610,19 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="JUnit.PlaygroundTest.isAllowedToOK" />
+      <item itemvalue="JUnit.PlaygroundTest.isAllowedTo" />
+      <item itemvalue="JUnit.PlaygroundTest.isAllowedToWorking" />
       <item itemvalue="JUnit.AttractionTest" />
-      <item itemvalue="JUnit.StallTest" />
-      <item itemvalue="JUnit.AttractionTest.isAllowedToTest" />
-      <item itemvalue="JUnit.PlaygroundTest.isAllowedToTest" />
-      <item itemvalue="JUnit.PlaygroundTest" />
+      <item itemvalue="JUnit.TobaccoStallTest.mustBeOverEighteen" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PlaygroundTest" />
-        <item itemvalue="JUnit.PlaygroundTest.isAllowedToTest" />
-        <item itemvalue="JUnit.AttractionTest.isAllowedToTest" />
+        <item itemvalue="JUnit.TobaccoStallTest.mustBeOverEighteen" />
         <item itemvalue="JUnit.AttractionTest" />
-        <item itemvalue="JUnit.StallTest" />
+        <item itemvalue="JUnit.PlaygroundTest.isAllowedToWorking" />
+        <item itemvalue="JUnit.PlaygroundTest.isAllowedTo" />
+        <item itemvalue="JUnit.PlaygroundTest.isAllowedToOK" />
       </list>
     </recent_temporary>
   </component>
@@ -635,55 +640,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AttractionTest_parkAsAttraction - 2018.07.02 at 17h 09m 53s.xml">
-      <configuration name="AttractionTest.parkAsAttraction" configurationId="JUnit" />
+    <history-entry file="PlaygroundTest - 2018.07.02 at 20h 26m 41s.xml">
+      <configuration name="PlaygroundTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AttractionTest_playgroundAsAttraction - 2018.07.02 at 17h 15m 36s.xml">
-      <configuration name="AttractionTest.playgroundAsAttraction" configurationId="JUnit" />
+    <history-entry file="PlaygroundTest_hasName - 2018.07.02 at 20h 31m 11s.xml">
+      <configuration name="PlaygroundTest.hasName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AttractionTest - 2018.07.02 at 17h 15m 41s.xml">
+    <history-entry file="PlaygroundTest_isAllowedToTest - 2018.07.02 at 20h 31m 15s.xml">
+      <configuration name="PlaygroundTest.isAllowedToTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaygroundTest_isAllowedToOK - 2018.07.02 at 20h 33m 58s.xml">
+      <configuration name="PlaygroundTest.isAllowedToOK" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaygroundTest_isAllowedTo - 2018.07.02 at 20h 34m 32s.xml">
+      <configuration name="PlaygroundTest.isAllowedTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaygroundTest_isAllowedToWorking - 2018.07.02 at 20h 36m 09s.xml">
+      <configuration name="PlaygroundTest.isAllowedToWorking" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaygroundTest_isAllowedToWorking - 2018.07.02 at 20h 36m 12s.xml">
+      <configuration name="PlaygroundTest.isAllowedToWorking" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaygroundTest_isAllowedToWorking - 2018.07.02 at 20h 38m 05s.xml">
+      <configuration name="PlaygroundTest.isAllowedToWorking" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AttractionTest - 2018.07.02 at 20h 41m 48s.xml">
       <configuration name="AttractionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StallTest_iceCreamStallAsStall - 2018.07.02 at 17h 40m 20s.xml">
-      <configuration name="StallTest.iceCreamStallAsStall" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StallTest_candyFlossStallAsStall - 2018.07.02 at 17h 48m 13s.xml">
-      <configuration name="StallTest.candyFlossStallAsStall" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StallTest_tobaccoStallAsStall - 2018.07.02 at 17h 55m 41s.xml">
-      <configuration name="StallTest.tobaccoStallAsStall" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StallTest_tobaccoStallAsStall - 2018.07.02 at 17h 56m 37s.xml">
-      <configuration name="StallTest.tobaccoStallAsStall" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AttractionTest - 2018.07.02 at 19h 21m 59s.xml">
+    <history-entry file="AttractionTest - 2018.07.02 at 20h 48m 57s.xml">
       <configuration name="AttractionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StallTest - 2018.07.02 at 19h 22m 10s.xml">
-      <configuration name="StallTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AttractionTest_isAllowedToTest - 2018.07.02 at 20h 24m 33s.xml">
-      <configuration name="AttractionTest.isAllowedToTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="792" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" weight="0.32805756" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32805756" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32941177" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
       <window_info anchor="bottom" id="Build" weight="0.32969698" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -704,10 +709,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32805756" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17238913" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17238913" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -718,14 +723,14 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32969698" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Build" order="3" weight="0.32969698" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.32969698" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32805756" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info id="Favorites" order="4" side_tool="true" />
     </layout-to-restore>
@@ -735,7 +740,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -858,20 +863,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TobaccoStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StallTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -903,13 +894,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ISecurity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Visitor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -927,32 +911,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AttractionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/PlaygroundTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="315">
+          <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#playgroundAsAttraction#0;class#AttractionTest#0" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Playground.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="255">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PlaygroundTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ISecurity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AttractionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TobaccoStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
           </folding>
         </state>
       </provider>
