@@ -11,4 +11,11 @@ public class StallTest {
         stall = new IceCreamStall("Mr Whippy", "Simon Jones", 78, true);
         assertEquals("Mr Whippy", stall.getName());
     }
+
+    @Test
+    public void candyFlossStallAsStall() {
+        stall = new CandyFlossStall("Pink N Fluffy", "Jessica Jackson", 35, true);
+        assertEquals("Pink N Fluffy", stall.getName());
+    }
+
 }
