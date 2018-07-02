@@ -18,4 +18,9 @@ public class StallTest {
         assertEquals("Pink N Fluffy", stall.getName());
     }
 
+    @Test
+    public  void tobaccoStallAsStall() {
+        stall = new TobaccoStall ("Mr Fags", "George McDuff", 18, true);
+        assertEquals("Mr Fags", stall.getName());
+    }
 }
