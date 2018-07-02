@@ -20,6 +20,12 @@ public class AttractionTest {
         assertEquals("The Dodge Derby", attraction.getName());
     }
 
+    @Test
+    public  void parkAsAttraction() {
+        attraction = new Park("The Water Park", 0.00);
+        assertEquals("The Water Park", attraction.getName());
+    }
+
 }
 
 
