@@ -18,13 +18,9 @@ public class PlaygroundTest {
         assertEquals("The Play-Around-Play-Ground", playground.getName());
     }
 
-
-//    CAN NOT GET BELOW WORKING!! - isAllowedTo from Playground Class file
-//
-//    @Test
-//    public void isAllowedToWorking(){
-//        assertEquals(false, playground.isAllowedTo(visitor));
-//    }
-
-
+    @Test
+    public void mustBeUnderFifteen(){
+        visitor = new Visitor("Henry", 11, 100.00, 5.00);
+        assertEquals(true, playground.isAllowedTo(visitor));
+    }
 }

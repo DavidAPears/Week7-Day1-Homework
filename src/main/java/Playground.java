@@ -7,15 +7,9 @@ public class Playground extends Attraction {
         this.price = price;
     }
 
-//    CAN NOT GET THE TEST FOR THE BELOW WORKING (See playground Test!)
-
-//    @Override
-//    public boolean isAllowedTo(Visitor visitor) {
-//        if (visitor.getAge() < 16) {
-//            return false;
-//            }
-//            return true;
-//            }
+    public boolean isAllowedTo(Visitor visitor) {
+        return visitor.getAge() < 16;
+    }
 }
 
 
