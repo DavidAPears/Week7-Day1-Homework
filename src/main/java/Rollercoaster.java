@@ -8,7 +8,9 @@ public class Rollercoaster extends Attraction {
         this.price = price;
     }
 
-    public boolean isAllowedTo(Visitor visitor) {
+
+    public boolean isAllowedTo(Visitor visitor)
+    {
         return ((visitor.getAge() > 12) && (visitor.getHeight() > 145.00));
     }
 
